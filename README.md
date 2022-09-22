@@ -1,2 +1,3 @@
 # trainingprog
-this code contains overloadiong
+this code contains overloading
+and constructors
