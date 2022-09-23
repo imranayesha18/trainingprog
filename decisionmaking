@@ -1,0 +1,36 @@
+public class Emp {
+    int id;
+    String name;
+    String type;
+    public Emp(int a,  String d,String type
+    {
+        this.id = a;
+        this.name = d;
+        this.type = type;
+    }
+    
+    void DM(){
+        if(type.equals("HR")){
+            System.out.println("9 to 6");
+        }
+        else if(type.equals("Fresher")){
+            System.out.println("10 to 7");
+        }
+        else{
+            System.out.println("9 to 5");
+        }
+    }
+
+class New{
+
+    public static void main(String args[]){
+
+        Emp o1 = new Emp(12,"abc","HR");
+        Emp o2 = new Emp(13,"xyz","Fresher");
+        Emp o3 = new Emp(14,"qwe","infra");
+        o1.DM();
+        o2.DM();
+        o3.DM();
+    }
+}
+
