@@ -19,16 +19,33 @@
 7.Prog to demonstrate subString class.
 
 
+
 8.Prog to reverse a string using single loop and charAt() method.
 
 
 9.Prog to demonstrate immutable class using private and final keywords.
 
 
-10.Prog to show the use of regular expression on employee class.
+
+10.Prog to show the use of regular expression on employee class
 
 
 11.Prog to demonstrate singlylinkedlist using java.
+
+
+12.TreeSet1 class is to demonstrate the properties of TreeSet.
+
+
+
+13.LinkedHashSet1 class is to demonstrate the properties of LinkedHashSet.
+
+
+
+14.HashSet1 class is to demonstrate the properties of HashSet.
+
+
+
+15.List1 class is to demonstrate the properties of List by adding Integer values.
 
 
 
