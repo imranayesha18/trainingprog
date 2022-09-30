@@ -1,0 +1,19 @@
+import java.util.LinkedHashSet;
+
+public class LinkedHashSet1 {
+    public static void main(String args[]){
+        LinkedHashSet<Integer> linkedHashSet = new LinkedHashSet<>();
+
+        linkedHashSet.add(5);
+        linkedHashSet.add(23);
+        linkedHashSet.add(10);
+        linkedHashSet.add(null);
+        linkedHashSet.add(11);
+        linkedHashSet.add(44);
+        
+        linkedHashSet.add(null);
+       
+
+        System.out.println(linkedHashSet1);
+    }
+}
