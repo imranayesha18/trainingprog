@@ -48,17 +48,17 @@
 15.List1 class is to demonstrate the properties of List by adding Integer values.
 
 
-Prog to demonstrate the use of hash map.
+16.Prog to demonstrate the use of hash map.
 
 
 
-Prog to demonstrate the use of TreeMap.
+17.Prog to demonstrate the use of TreeMap.
 
 
-Prog to demonstrate the use of LinkedHashMap.
+18.Prog to demonstrate the use of LinkedHashMap.
 
 
-Prog to demonstrate the use of toString() method and and HashMap on employee class.
+19.Prog to demonstrate the use of toString() method and and HashMap on employee class.
 
 
 
