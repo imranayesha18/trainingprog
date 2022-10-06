@@ -35,7 +35,7 @@
 11.Sll-Prog to demonstrate singlylinkedlist using java.
 
 
-12.TreeSet1 class is to demonstrate the properties of TreeSet.
+12.TreeSet1- Program to demonstrate the properties of TreeSet.
 
 
 
