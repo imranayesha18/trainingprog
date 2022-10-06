@@ -50,7 +50,7 @@
 15.List1-Program to demonstrate the properties of List by adding Integer values in ArrayList.
 
 
-16.Prog to demonstrate the use of hash map.
+16.linkedHasedMap-Prog to demonstrate the use of hash map.
 
 
 
