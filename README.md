@@ -4,7 +4,7 @@
 2.EmpOverloading-Demonstrate methodOverloading using inheritance in employee details class.
 
 
-3.Demonstrate MethodOverriding using inheritance in employee details class.
+3.EmpMethodoverriding-Demonstrate MethodOverriding using inheritance in employee details class.
 
 
 
