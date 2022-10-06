@@ -18,7 +18,7 @@
 6.EmpSwitch-Prog to demonstate the use of switch case.
 
 
-7.Prog to demonstrate subString class.
+7.SubString1-Prog to demonstrate subString class.
 
 
 
