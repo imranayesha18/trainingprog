@@ -43,7 +43,7 @@
 
 
 
-14.HashSet1 class is to demonstrate the properties of HashSet.
+14.HashSet1-Prog to demonstrate the properties of HashSet.
 
 
 
