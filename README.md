@@ -64,7 +64,7 @@
 
 
 
-Prog to implement thread class in java.
+MyThread-Prog to implement thread class in java.
 
 
 
