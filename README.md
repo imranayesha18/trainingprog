@@ -29,7 +29,7 @@
 
 
 
-10.Prog to show the use of regular expression on employee class
+10.Regex-Prog to show the use of regular expression on employee class
 
 
 11.Prog to demonstrate singlylinkedlist using java.
