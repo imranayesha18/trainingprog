@@ -25,7 +25,7 @@
 8.NewChar-Prog to reverse a string using single loop and charAt() method.
 
 
-9.Prog to demonstrate immutable class using private and final keywords.
+9.Immutable-Prog to demonstrate immutable class using private and final keywords.
 
 
 
