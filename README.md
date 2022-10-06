@@ -54,7 +54,7 @@
 
 
 
-17.Prog to demonstrate the use of TreeMap.
+17.TreeMap1-Prog to demonstrate the use of TreeMap.
 
 
 18.Prog to demonstrate the use of LinkedHashMap.
