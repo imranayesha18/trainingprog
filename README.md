@@ -47,7 +47,7 @@
 
 
 
-15.List1 class is to demonstrate the properties of List by adding Integer values.
+15.List1-Program to demonstrate the properties of List by adding Integer values in ArrayList.
 
 
 16.Prog to demonstrate the use of hash map.
