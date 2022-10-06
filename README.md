@@ -15,7 +15,7 @@
 5.EmpDM-Prog to show the use of control statements(if else).
 
 
-6.Prog to demonstate the use of switch case.
+6.EmpSwitch-Prog to demonstate the use of switch case.
 
 
 7.Prog to demonstrate subString class.
