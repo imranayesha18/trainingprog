@@ -12,7 +12,7 @@
 
 
 
-5.Prog to show the use of control statements.
+5.EmpDM-Prog to show the use of control statements(if else).
 
 
 6.Prog to demonstate the use of switch case.
