@@ -60,7 +60,7 @@
 18.linkedHasedMap-Prog to demonstrate the use of LinkedHashMap.
 
 
-19.Prog to demonstrate the use of toString() method and and HashMap on employee class.
+19.EmpKey-Prog to demonstrate the use of toString() method and and HashMap on employee class.
 
 
 
