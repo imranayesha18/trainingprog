@@ -32,7 +32,7 @@
 10.Regex-Prog to show the use of regular expression on employee class
 
 
-11.Prog to demonstrate singlylinkedlist using java.
+11.Sll-Prog to demonstrate singlylinkedlist using java.
 
 
 12.TreeSet1 class is to demonstrate the properties of TreeSet.
