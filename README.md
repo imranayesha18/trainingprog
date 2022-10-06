@@ -57,7 +57,7 @@
 17.TreeMap1-Prog to demonstrate the use of TreeMap.
 
 
-18.Prog to demonstrate the use of LinkedHashMap.
+18.linkedHasedMap-Prog to demonstrate the use of LinkedHashMap.
 
 
 19.Prog to demonstrate the use of toString() method and and HashMap on employee class.
