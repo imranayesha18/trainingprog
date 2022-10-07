@@ -75,5 +75,19 @@
 
 
 
+23.SimpleException-Program to show the use of exception class and how it works.
+
+
+
+
+24.ExceptionTryCatch-This program is impelmented to show the use of multiple try catch block inside exception class.
+
+
+
+
+25.ExceptionFinally-This program is implemented to show the use of finally block which will always be implemented regardless of whether the exception has been caugth or not.
+
+
+
 
 
