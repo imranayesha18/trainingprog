@@ -1,0 +1,32 @@
+public class MyThread1 extends Thread {
+    int count=0;
+    void Increment() throws InterruptedException {
+        Thread.sleep(10000);
+        count++;
+    }
+    void Decrement(){
+        count--;
+    }
+
+    @Override
+    public void run() {
+        try {
+            Increment();
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        System.out.println(count);
+        Decrement();
+        System.out.println(count);
+    }
+}
+class New
+{
+    public static void main(String[] args) {
+        MyThread1 t1= new MyThread1();
+        MyThread1 t2=new MyThread1();
+        t1.start();
+        t2.start();
+    }
+}
+
