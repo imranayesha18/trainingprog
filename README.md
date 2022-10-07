@@ -67,7 +67,11 @@
 20.MyThread-Prog to implement thread class in java.
 
 
-21.
+21.MyThread1sleep-This program shows how the sleep method can be used to delay the time at which the output is displayed on the screen.
+
+
+
+22.IncDec-This program uses 2 methods - increment and decrement to show the use of two threads t1 and t2.
 
 
 
