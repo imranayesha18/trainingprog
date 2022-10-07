@@ -1,7 +1,6 @@
 public class Exptest {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
         int i=0;
         int [] arr=new int[5];
         System.out.println("statment 1");
