@@ -97,6 +97,12 @@
 
 
 
+27.ThreadnewSingles-In this prgram we make use of single thread to perform 100 tasks by making use of thread pool.This reduces the memory spcae consumed.
+
+
+
+
+
 
 
 
