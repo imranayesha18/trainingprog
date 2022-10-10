@@ -91,3 +91,12 @@
 
 
 
+26.ThreadImplementsProgram -In this prog instead of using the "extends" keyword we use the "implements" keyword to show the functionalities of 2 tread t1 and t2 and in object creation we call Thread obj1=new Thread(t1);.
+
+
+
+
+
+
+
+
