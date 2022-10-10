@@ -102,6 +102,16 @@
 
 
 
+28.10Thread10TaskForloop-This program to show how 10 treads are used to perform 10 tasks separately using for loop.
+
+
+
+
+29.
+
+
+
+
 
 
 
